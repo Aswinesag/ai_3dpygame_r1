@@ -1,0 +1,6 @@
+agno>=2.2.10
+langchain-openai
+browser-use
+streamlit
+groq
+python-dotenv
