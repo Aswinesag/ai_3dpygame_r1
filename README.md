@@ -201,14 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Trinket** - For accessible PyGame execution environment
 - **Streamlit** - For the excellent web framework
 
-## 📞 Support
-
-For issues, questions, or feature requests:
-1. Check the troubleshooting section
-2. Review existing GitHub issues
-3. Create a new issue with detailed information
-4. Include error messages and system details
-
 ---
 
 **🚀 Start creating amazing PyGame visualizations with AI today!**
